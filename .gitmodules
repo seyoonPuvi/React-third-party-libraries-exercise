@@ -13,3 +13,6 @@
 [submodule "dashboard-rechart.lib"]
 	path = dashboard-rechart.lib
 	url = https://github.com/seyoonPuvi/dashboard-rechart.lib.git
+[submodule "simple-themeToggle-app"]
+	path = simple-themeToggle-app
+	url = https://github.com/seyoonPuvi/simple-themeToggle-app.git
