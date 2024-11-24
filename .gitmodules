@@ -1,3 +1,6 @@
 [submodule "simple-prime-video-app"]
 	path = simple-prime-video-app
 	url = https://github.com/seyoonPuvi/simple-prime-video-app.git
+[submodule "hamburgermenu-react-popup-lib"]
+	path = hamburgermenu-react-popup-lib
+	url = https://github.com/seyoonPuvi/hamburgermenu-react-popup-lib.git
