@@ -10,3 +10,6 @@
 [submodule "react-chrono-ccbp-timeline"]
 	path = react-chrono-ccbp-timeline
 	url = https://github.com/seyoonPuvi/react-chrono-ccbp-timeline.git
+[submodule "dashboard-rechart.lib"]
+	path = dashboard-rechart.lib
+	url = https://github.com/seyoonPuvi/dashboard-rechart.lib.git
