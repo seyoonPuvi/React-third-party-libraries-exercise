@@ -4,3 +4,6 @@
 [submodule "hamburgermenu-react-popup-lib"]
 	path = hamburgermenu-react-popup-lib
 	url = https://github.com/seyoonPuvi/hamburgermenu-react-popup-lib.git
+[submodule "planets-react-slick"]
+	path = planets-react-slick
+	url = https://github.com/seyoonPuvi/planets-react-slick.git
